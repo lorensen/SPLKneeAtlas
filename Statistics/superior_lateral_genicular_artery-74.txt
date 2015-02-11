@@ -1,0 +1,12 @@
+Name:  superior_lateral_genicular_artery
+Label: 74
+    count: 8123
+    min: 303
+    max: 1842
+    median: 1638.38
+    mean: 963.133
+    sigma: 325.275
+    variance: 105804
+    sum: 7.82353e+06
+    region: index(276, 167, 85) size(89, 169, 24)
+    bounding box: (276, 364) (167, 335) (85, 108) 

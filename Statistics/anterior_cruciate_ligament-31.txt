@@ -1,0 +1,12 @@
+Name:  anterior_cruciate_ligament
+Label: 31
+    count: 23088
+    min: 123
+    max: 1816
+    median: 1638.38
+    mean: 498.566
+    sigma: 259.294
+    variance: 67233.4
+    sum: 1.15109e+07
+    region: index(240, 171, 41) size(50, 104, 34)
+    bounding box: (240, 289) (171, 274) (41, 74) 

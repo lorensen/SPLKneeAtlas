@@ -1,0 +1,12 @@
+Name:  small_saphenous_vein
+Label: 78
+    count: 3182
+    min: 352
+    max: 1452
+    median: 1638.38
+    mean: 681.97
+    sigma: 202.636
+    variance: 41061.3
+    sum: 2.17003e+06
+    region: index(267, 37, 1) size(28, 51, 53)
+    bounding box: (267, 294) (37, 87) (1, 53) 

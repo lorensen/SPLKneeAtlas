@@ -1,0 +1,12 @@
+Name:  medial_tibial_cartilage
+Label: 85
+    count: 35655
+    min: 154
+    max: 1589
+    median: 1638.38
+    mean: 566.516
+    sigma: 170.581
+    variance: 29097.8
+    sum: 2.01991e+07
+    region: index(140, 149, 32) size(104, 153, 11)
+    bounding box: (140, 243) (149, 301) (32, 42) 

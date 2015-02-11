@@ -1,0 +1,12 @@
+Name:  superior_medial_genicular_artery
+Label: 73
+    count: 3854
+    min: 413
+    max: 2035
+    median: 1638.38
+    mean: 1044.45
+    sigma: 365.668
+    variance: 133713
+    sum: 4.02533e+06
+    region: index(167, 178, 88) size(118, 161, 21)
+    bounding box: (167, 284) (178, 338) (88, 108) 

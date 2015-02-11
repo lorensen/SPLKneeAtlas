@@ -1,0 +1,12 @@
+Name:  biceps_femoris_muscle
+Label: 15
+    count: 239510
+    min: 139
+    max: 2192
+    median: 1638.38
+    mean: 581.875
+    sigma: 165.24
+    variance: 27304.4
+    sum: 1.39365e+08
+    region: index(309, 86, 36) size(121, 114, 82)
+    bounding box: (309, 429) (86, 199) (36, 117) 

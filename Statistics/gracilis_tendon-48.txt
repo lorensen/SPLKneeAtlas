@@ -1,0 +1,12 @@
+Name:  gracilis_tendon
+Label: 48
+    count: 11544
+    min: 130
+    max: 2027
+    median: 1638.38
+    mean: 528.491
+    sigma: 337.761
+    variance: 114083
+    sum: 6.1009e+06
+    region: index(95, 159, 14) size(96, 97, 104)
+    bounding box: (95, 190) (159, 255) (14, 117) 

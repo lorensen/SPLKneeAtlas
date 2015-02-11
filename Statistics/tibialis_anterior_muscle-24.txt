@@ -1,0 +1,12 @@
+Name:  tibialis_anterior_muscle
+Label: 24
+    count: 44854
+    min: 178
+    max: 1464
+    median: 1638.38
+    mean: 479.889
+    sigma: 100.82
+    variance: 10164.6
+    sum: 2.15249e+07
+    region: index(373, 176, 1) size(60, 102, 25)
+    bounding box: (373, 432) (176, 277) (1, 25) 

@@ -1,0 +1,12 @@
+Name:  vastus_medialis_muscle
+Label: 13
+    count: 357934
+    min: 204
+    max: 1959
+    median: 1638.38
+    mean: 557.584
+    sigma: 105.434
+    variance: 11116.4
+    sum: 1.99578e+08
+    region: index(106, 240, 76) size(162, 176, 42)
+    bounding box: (106, 267) (240, 415) (76, 117) 

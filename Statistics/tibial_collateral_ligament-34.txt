@@ -1,0 +1,12 @@
+Name:  tibial_collateral_ligament
+Label: 34
+    count: 43899
+    min: 125
+    max: 2098
+    median: 1638.38
+    mean: 525.068
+    sigma: 358.81
+    variance: 128745
+    sum: 2.305e+07
+    region: index(99, 188, 17) size(90, 110, 56)
+    bounding box: (99, 188) (188, 297) (17, 72) 

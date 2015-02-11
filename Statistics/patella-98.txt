@@ -1,0 +1,12 @@
+Name:  patella
+Label: 98
+    count: 205343
+    min: 118
+    max: 2034
+    median: 1638.38
+    mean: 1187.12
+    sigma: 498.435
+    variance: 248437
+    sum: 2.43767e+08
+    region: index(219, 347, 64) size(161, 81, 39)
+    bounding box: (219, 379) (347, 427) (64, 102) 

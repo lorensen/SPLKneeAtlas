@@ -1,0 +1,12 @@
+Name:  iliotibial_tract
+Label: 43
+    count: 27017
+    min: 125
+    max: 1835
+    median: 1638.38
+    mean: 464.893
+    sigma: 335.109
+    variance: 112298
+    sum: 1.256e+07
+    region: index(387, 188, 89) size(28, 109, 29)
+    bounding box: (387, 414) (188, 296) (89, 117) 

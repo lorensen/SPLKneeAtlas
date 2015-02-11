@@ -1,0 +1,12 @@
+Name:  vastus_lateralis_muscle
+Label: 12
+    count: 49335
+    min: 160
+    max: 1630
+    median: 1638.38
+    mean: 542.666
+    sigma: 160.458
+    variance: 25746.6
+    sum: 2.67724e+07
+    region: index(319, 207, 94) size(83, 103, 24)
+    bounding box: (319, 401) (207, 309) (94, 117) 

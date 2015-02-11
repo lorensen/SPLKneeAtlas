@@ -1,0 +1,12 @@
+Name:  semitendinosus_muscle
+Label: 17
+    count: 8977
+    min: 206
+    max: 1781
+    median: 1638.38
+    mean: 651.43
+    sigma: 226.339
+    variance: 51229.3
+    sum: 5.84789e+06
+    region: index(179, 86, 95) size(48, 28, 23)
+    bounding box: (179, 226) (86, 113) (95, 117) 

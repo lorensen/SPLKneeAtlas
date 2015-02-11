@@ -1,0 +1,12 @@
+Name:  lateral_head_gastrocnemius_muscle
+Label: 21
+    count: 376770
+    min: 160
+    max: 2260
+    median: 1638.38
+    mean: 623.212
+    sigma: 215.507
+    variance: 46443.5
+    sum: 2.34808e+08
+    region: index(264, 27, 1) size(178, 111, 78)
+    bounding box: (264, 441) (27, 137) (1, 78) 

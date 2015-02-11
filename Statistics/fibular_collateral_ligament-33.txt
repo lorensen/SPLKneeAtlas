@@ -1,0 +1,12 @@
+Name:  fibular_collateral_ligament
+Label: 33
+    count: 28715
+    min: 108
+    max: 2016
+    median: 1638.38
+    mean: 453.599
+    sigma: 320.073
+    variance: 102447
+    sum: 1.30251e+07
+    region: index(352, 115, 20) size(104, 109, 63)
+    bounding box: (352, 455) (115, 223) (20, 82) 

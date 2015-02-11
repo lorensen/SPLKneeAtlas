@@ -1,0 +1,12 @@
+Name:  soleus_tendon
+Label: 46
+    count: 16425
+    min: 161
+    max: 1823
+    median: 1638.38
+    mean: 682.341
+    sigma: 378.921
+    variance: 143581
+    sum: 1.12075e+07
+    region: index(321, 79, 1) size(117, 75, 23)
+    bounding box: (321, 437) (79, 153) (1, 23) 

@@ -1,0 +1,12 @@
+Name:  great_saphenous_vein
+Label: 77
+    count: 12591
+    min: 335
+    max: 2861
+    median: 1638.38
+    mean: 1283.12
+    sigma: 525.953
+    variance: 276627
+    sum: 1.61558e+07
+    region: index(50, 193, 1) size(114, 40, 117)
+    bounding box: (50, 163) (193, 232) (1, 117) 

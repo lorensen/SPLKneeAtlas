@@ -1,0 +1,12 @@
+Name:  patellar_ligament
+Label: 35
+    count: 79786
+    min: 107
+    max: 1704
+    median: 1638.38
+    mean: 292.911
+    sigma: 170.965
+    variance: 29229
+    sum: 2.33702e+07
+    region: index(255, 283, 4) size(136, 137, 75)
+    bounding box: (255, 390) (283, 419) (4, 78) 

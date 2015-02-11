@@ -1,0 +1,12 @@
+Name:  medial_meniscus
+Label: 82
+    count: 28990
+    min: 124
+    max: 1411
+    median: 1638.38
+    mean: 352.915
+    sigma: 182.754
+    variance: 33399.2
+    sum: 1.0231e+07
+    region: index(141, 165, 35) size(157, 155, 9)
+    bounding box: (141, 297) (165, 319) (35, 43) 

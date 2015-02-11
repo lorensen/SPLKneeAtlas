@@ -1,0 +1,12 @@
+Name:  gracilis_muscle
+Label: 18
+    count: 10858
+    min: 162
+    max: 1874
+    median: 1638.38
+    mean: 606.113
+    sigma: 188.826
+    variance: 35655.1
+    sum: 6.58117e+06
+    region: index(107, 158, 87) size(36, 38, 31)
+    bounding box: (107, 142) (158, 195) (87, 117) 

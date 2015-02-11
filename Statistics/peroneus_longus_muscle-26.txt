@@ -1,0 +1,12 @@
+Name:  peroneus_longus_muscle
+Label: 26
+    count: 19992
+    min: 165
+    max: 1442
+    median: 1638.38
+    mean: 532.292
+    sigma: 126.557
+    variance: 16016.7
+    sum: 1.06416e+07
+    region: index(411, 103, 1) size(53, 84, 22)
+    bounding box: (411, 463) (103, 186) (1, 22) 

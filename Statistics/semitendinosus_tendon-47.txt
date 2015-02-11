@@ -1,0 +1,12 @@
+Name:  semitendinosus_tendon
+Label: 47
+    count: 31416
+    min: 124
+    max: 2054
+    median: 1638.38
+    mean: 492.913
+    sigma: 315.043
+    variance: 99251.9
+    sum: 1.54853e+07
+    region: index(138, 87, 1) size(90, 163, 117)
+    bounding box: (138, 227) (87, 249) (1, 117) 

@@ -1,0 +1,12 @@
+Name:  patellar_cartilage
+Label: 86
+    count: 50495
+    min: 135
+    max: 1686
+    median: 1638.38
+    mean: 528.341
+    sigma: 187.971
+    variance: 35333.2
+    sum: 2.66786e+07
+    region: index(218, 334, 69) size(161, 79, 33)
+    bounding box: (218, 378) (334, 412) (69, 101) 

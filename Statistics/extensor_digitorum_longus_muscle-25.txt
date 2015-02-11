@@ -1,0 +1,12 @@
+Name:  extensor_digitorum_longus_muscle
+Label: 25
+    count: 17429
+    min: 176
+    max: 1416
+    median: 1638.38
+    mean: 496.179
+    sigma: 110.596
+    variance: 12231.6
+    sum: 8.64791e+06
+    region: index(396, 164, 1) size(46, 51, 25)
+    bounding box: (396, 441) (164, 214) (1, 25) 

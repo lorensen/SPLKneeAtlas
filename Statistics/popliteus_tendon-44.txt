@@ -1,0 +1,12 @@
+Name:  popliteus_tendon
+Label: 44
+    count: 15308
+    min: 131
+    max: 1977
+    median: 1638.38
+    mean: 416.517
+    sigma: 255.316
+    variance: 65186.4
+    sum: 6.37604e+06
+    region: index(312, 110, 26) size(98, 105, 40)
+    bounding box: (312, 409) (110, 214) (26, 65) 

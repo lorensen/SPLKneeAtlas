@@ -1,0 +1,12 @@
+Name:  posterior_cruciate_ligament
+Label: 32
+    count: 31979
+    min: 119
+    max: 1938
+    median: 1638.38
+    mean: 412.084
+    sigma: 270.174
+    variance: 72994.1
+    sum: 1.3178e+07
+    region: index(208, 134, 26) size(87, 120, 37)
+    bounding box: (208, 294) (134, 253) (26, 62) 

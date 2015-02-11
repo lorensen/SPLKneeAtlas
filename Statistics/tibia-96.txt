@@ -1,0 +1,12 @@
+Name:  tibia
+Label: 96
+    count: 1190900
+    min: 122
+    max: 2128
+    median: 1638.38
+    mean: 1426.61
+    sigma: 449.159
+    variance: 201744
+    sum: 1.69895e+09
+    region: index(142, 113, 1) size(292, 209, 46)
+    bounding box: (142, 433) (113, 321) (1, 46) 

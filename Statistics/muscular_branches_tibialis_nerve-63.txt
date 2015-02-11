@@ -1,0 +1,12 @@
+Name:  muscular_branches_tibialis_nerve
+Label: 63
+    count: 2380
+    min: 386
+    max: 2148
+    median: 1638.38
+    mean: 1141.21
+    sigma: 384.828
+    variance: 148093
+    sum: 2.71607e+06
+    region: index(272, 63, 51) size(37, 34, 24)
+    bounding box: (272, 308) (63, 96) (51, 74) 

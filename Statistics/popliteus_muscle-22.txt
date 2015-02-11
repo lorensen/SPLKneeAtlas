@@ -1,0 +1,12 @@
+Name:  popliteus_muscle
+Label: 22
+    count: 123018
+    min: 158
+    max: 1702
+    median: 1638.38
+    mean: 520.094
+    sigma: 111.26
+    variance: 12378.8
+    sum: 6.39809e+07
+    region: index(214, 109, 1) size(149, 116, 38)
+    bounding box: (214, 362) (109, 224) (1, 38) 

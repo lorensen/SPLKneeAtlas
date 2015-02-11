@@ -1,0 +1,12 @@
+Name:  middle_genicular_artery
+Label: 75
+    count: 1154
+    min: 451
+    max: 2181
+    median: 1638.38
+    mean: 1096.07
+    sigma: 390.642
+    variance: 152601
+    sum: 1.26486e+06
+    region: index(240, 169, 65) size(35, 29, 21)
+    bounding box: (240, 274) (169, 197) (65, 85) 

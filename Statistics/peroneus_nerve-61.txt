@@ -1,0 +1,12 @@
+Name:  peroneus_nerve
+Label: 61
+    count: 18791
+    min: 241
+    max: 2262
+    median: 1638.38
+    mean: 935.403
+    sigma: 379.216
+    variance: 143805
+    sum: 1.75772e+07
+    region: index(308, 66, 1) size(142, 88, 117)
+    bounding box: (308, 449) (66, 153) (1, 117) 

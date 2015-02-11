@@ -1,0 +1,12 @@
+Name:  biceps_femoris_tendon
+Label: 42
+    count: 40191
+    min: 123
+    max: 2098
+    median: 1638.38
+    mean: 659.717
+    sigma: 459.525
+    variance: 211163
+    sum: 2.65147e+07
+    region: index(359, 82, 15) size(103, 87, 103)
+    bounding box: (359, 461) (82, 168) (15, 117) 
