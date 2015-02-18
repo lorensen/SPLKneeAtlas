@@ -10,6 +10,8 @@ ScreenshotDirectory: @SPLKneeAtlas_SOURCE_DIR@/Models/Screenshot
 ChangesDirectory: @SPLKneeAtlas_SOURCE_DIR@/Changes
 StatisticsDirectory: @SPLKneeAtlas_SOURCE_DIR@/Statistics
 MRMLDirectory: @SPLKneeAtlas_BINARY_DIR@/MRML
-GitDirectory: @SPLKneeAtlas_SOURCE_DIR@
 FiducialsDirectory: @SPLKneeAtlas_BINARY_DIR@/Fiducials
+GitDirectory: @SPLKneeAtlas_SOURCE_DIR@
+GitURL: https://github.com/lorensen/SPLKneeAtlas
+GitWikiDirectory: @SPLKneeAtlas_SOURCE_DIR@/wiki
 
