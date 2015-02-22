@@ -1,12 +1,12 @@
 Name:  fibula
 Label: 97
-    count: 137996
+    count: 138005
     min: 135
     max: 2158
     median: 1638.38
-    mean: 1301.52
-    sigma: 565.711
-    variance: 320029
-    sum: 1.79605e+08
+    mean: 1301.47
+    sigma: 565.733
+    variance: 320054
+    sum: 1.79609e+08
     region: index(353, 81, 1) size(105, 99, 32)
     bounding box: (353, 457) (81, 179) (1, 32) 

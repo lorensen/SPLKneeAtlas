@@ -1,12 +1,12 @@
 Name:  adductor_magnus_tendon
 Label: 41
-    count: 10370
+    count: 10366
     min: 153
     max: 2281
     median: 1638.38
-    mean: 946.91
-    sigma: 504.549
-    variance: 254570
-    sum: 9.81946e+06
+    mean: 946.669
+    sigma: 504.496
+    variance: 254516
+    sum: 9.81317e+06
     region: index(106, 198, 74) size(85, 75, 44)
     bounding box: (106, 190) (198, 272) (74, 117) 

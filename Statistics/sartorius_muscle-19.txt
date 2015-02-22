@@ -1,12 +1,12 @@
 Name:  sartorius_muscle
 Label: 19
-    count: 161319
+    count: 161320
     min: 274
     max: 2528
     median: 1638.38
     mean: 715.847
-    sigma: 339.802
-    variance: 115466
+    sigma: 339.801
+    variance: 115465
     sum: 1.1548e+08
     region: index(64, 153, 16) size(131, 125, 102)
     bounding box: (64, 194) (153, 277) (16, 117) 

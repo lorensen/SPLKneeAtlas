@@ -1,12 +1,12 @@
 Name:  medial_sural_cutaneous_nerve
 Label: 64
-    count: 1521
+    count: 1520
     min: 364
     max: 2032
     median: 1638.38
-    mean: 1005.99
-    sigma: 464.627
-    variance: 215878
-    sum: 1.53012e+06
+    mean: 1006.38
+    sigma: 464.538
+    variance: 215796
+    sum: 1.5297e+06
     region: index(269, 31, 1) size(36, 61, 74)
     bounding box: (269, 304) (31, 91) (1, 74) 

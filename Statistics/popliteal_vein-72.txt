@@ -1,12 +1,12 @@
 Name:  popliteal_vein
 Label: 72
-    count: 61713
+    count: 61719
     min: 204
     max: 2536
     median: 1638.38
-    mean: 856.879
-    sigma: 448.491
-    variance: 201144
-    sum: 5.28806e+07
+    mean: 856.932
+    sigma: 448.519
+    variance: 201169
+    sum: 5.2889e+07
     region: index(265, 66, 1) size(98, 144, 117)
     bounding box: (265, 362) (66, 209) (1, 117) 

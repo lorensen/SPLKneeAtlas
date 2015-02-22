@@ -1,12 +1,12 @@
 Name:  medial_head_gastrocnemius_muscle
 Label: 20
-    count: 710014
+    count: 710009
     min: 172
     max: 2111
     median: 1638.38
-    mean: 597.318
-    sigma: 201.162
-    variance: 40466.3
-    sum: 4.24104e+08
+    mean: 597.311
+    sigma: 201.146
+    variance: 40459.6
+    sum: 4.24096e+08
     region: index(139, 27, 1) size(155, 183, 77)
     bounding box: (139, 293) (27, 209) (1, 77) 

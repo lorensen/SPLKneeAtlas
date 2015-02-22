@@ -1,12 +1,12 @@
 Name:  soleus_muscle
 Label: 23
-    count: 43786
+    count: 43790
     min: 174
     max: 1592
     median: 1638.38
-    mean: 543.429
-    sigma: 104.529
-    variance: 10926.4
-    sum: 2.37946e+07
+    mean: 543.408
+    sigma: 104.555
+    variance: 10931.8
+    sum: 2.37958e+07
     region: index(269, 77, 1) size(172, 68, 24)
     bounding box: (269, 440) (77, 144) (1, 24) 

@@ -1,12 +1,12 @@
 Name:  lateral_tibial_cartilage
 Label: 84
-    count: 52727
+    count: 52737
     min: 137
     max: 1899
     median: 1638.38
-    mean: 540.54
-    sigma: 172.539
-    variance: 29769.7
-    sum: 2.85011e+07
+    mean: 540.694
+    sigma: 172.8
+    variance: 29859.8
+    sum: 2.85146e+07
     region: index(265, 119, 35) size(156, 154, 13)
     bounding box: (265, 420) (119, 272) (35, 47) 

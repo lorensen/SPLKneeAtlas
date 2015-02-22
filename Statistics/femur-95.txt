@@ -1,12 +1,12 @@
 Name:  femur
 Label: 95
-    count: 1838595
+    count: 1838598
     min: 114
     max: 2303
     median: 1638.38
     mean: 1536.46
-    sigma: 448.193
-    variance: 200877
+    sigma: 448.194
+    variance: 200878
     sum: 2.82493e+09
     region: index(104, 123, 40) size(294, 235, 78)
     bounding box: (104, 397) (123, 357) (40, 117) 

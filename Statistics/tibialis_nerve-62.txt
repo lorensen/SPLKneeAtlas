@@ -1,12 +1,12 @@
 Name:  tibialis_nerve
 Label: 62
-    count: 23791
+    count: 23789
     min: 252
     max: 2150
     median: 1638.38
-    mean: 690.944
-    sigma: 331.376
-    variance: 109810
-    sum: 1.64383e+07
+    mean: 690.857
+    sigma: 331.252
+    variance: 109728
+    sum: 1.64348e+07
     region: index(270, 79, 1) size(49, 87, 117)
     bounding box: (270, 318) (79, 165) (1, 117) 

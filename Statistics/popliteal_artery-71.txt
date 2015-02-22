@@ -1,12 +1,12 @@
 Name:  popliteal_artery
 Label: 71
-    count: 59022
+    count: 59021
     min: 165
     max: 1997
     median: 1638.38
-    mean: 627.245
-    sigma: 217.566
-    variance: 47334.8
-    sum: 3.70212e+07
-    region: index(247, 94, 1) size(96, 130, 117)
-    bounding box: (247, 342) (94, 223) (1, 117) 
+    mean: 627.247
+    sigma: 217.567
+    variance: 47335.4
+    sum: 3.70207e+07
+    region: index(247, 95, 1) size(96, 129, 117)
+    bounding box: (247, 342) (95, 223) (1, 117) 

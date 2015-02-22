@@ -1,12 +1,12 @@
 Name:  femoral_cartilage
 Label: 83
-    count: 173530
+    count: 173520
     min: 174
     max: 2135
     median: 1638.38
-    mean: 819.324
-    sigma: 326.438
-    variance: 106561
-    sum: 1.42177e+08
-    region: index(113, 115, 38) size(281, 249, 42)
-    bounding box: (113, 393) (115, 363) (38, 79) 
+    mean: 819.343
+    sigma: 326.435
+    variance: 106560
+    sum: 1.42172e+08
+    region: index(113, 115, 38) size(281, 249, 41)
+    bounding box: (113, 393) (115, 363) (38, 78) 

@@ -1,12 +1,12 @@
 Name:  lateral_meniscus
 Label: 81
-    count: 24594
+    count: 24598
     min: 122
     max: 1849
     median: 1638.38
-    mean: 383.64
-    sigma: 226.965
-    variance: 51513.2
-    sum: 9.43524e+06
+    mean: 383.661
+    sigma: 226.953
+    variance: 51507.7
+    sum: 9.4373e+06
     region: index(267, 135, 43) size(149, 125, 11)
     bounding box: (267, 415) (135, 259) (43, 53) 

@@ -5,7 +5,7 @@ Label: 9
     max: 2385
     median: 1638.38
     mean: 1544.27
-    sigma: 412.117
+    sigma: 412.118
     variance: 169841
     sum: 6.3041e+08
     region: index(144, 179, 20) size(280, 233, 56)
