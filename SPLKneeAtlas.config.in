@@ -15,20 +15,4 @@ GitDirectory: @CMAKE_SOURCE_DIR@
 GitURL: https://github.com/lorensen/@ATLAS_NAME@
 GitDirectory: @CMAKE_SOURCE_DIR@
 GitWikiDirectory: @CMAKE_SOURCE_DIR@/wiki
-AtlasName: SPLKneeAtlas
-ColorTableFileName: @SPLKneeAtlas_SOURCE_DIR@/Atlas/SPLKneeAtlasColors.ctbl
-AdjacenciesFileName: @SPLKneeAtlas_SOURCE_DIR@/Models/adjacencies.txt
-VolumeFileName: @SPLKneeAtlas_SOURCE_DIR@/Atlas/SPLKneeAtlasVolume.nrrd
-LabelFileName: @SPLKneeAtlas_SOURCE_DIR@/Atlas/SPLKneeAtlasLabels.nrrd
-ModelsDirectory: @SPLKneeAtlas_SOURCE_DIR@/Models
-VTKDirectory: @SPLKneeAtlas_SOURCE_DIR@/Models/VTK
-STLDirectory: @SPLKneeAtlas_SOURCE_DIR@/Models/STL
-ScreenshotDirectory: @SPLKneeAtlas_SOURCE_DIR@/Models/Screenshot
-ChangesDirectory: @SPLKneeAtlas_SOURCE_DIR@/Changes
-StatisticsDirectory: @SPLKneeAtlas_SOURCE_DIR@/Statistics
-MRMLDirectory: @SPLKneeAtlas_BINARY_DIR@/MRML
-FiducialsDirectory: @SPLKneeAtlas_BINARY_DIR@/Fiducials
-GitDirectory: @SPLKneeAtlas_SOURCE_DIR@
-GitURL: https://github.com/lorensen/SPLKneeAtlas
-GitWikiDirectory: @SPLKneeAtlas_SOURCE_DIR@/wiki
-
+WikipediaUrls: @CMAKE_SOURCE_DIR@/Atlas/SPLKneeAtlasWikipedia.txt
