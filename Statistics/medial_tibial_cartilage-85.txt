@@ -3,7 +3,7 @@ Label: 85
     count: 35655
     min: 154
     max: 1589
-    median: 1638.38
+    median: 639.99
     mean: 566.516
     sigma: 170.581
     variance: 29097.8

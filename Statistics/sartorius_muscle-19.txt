@@ -3,7 +3,7 @@ Label: 19
     count: 161320
     min: 274
     max: 2528
-    median: 1638.38
+    median: 639.99
     mean: 715.847
     sigma: 339.801
     variance: 115465

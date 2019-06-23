@@ -3,7 +3,7 @@ Label: 48
     count: 11544
     min: 130
     max: 2027
-    median: 1638.38
+    median: 383.994
     mean: 528.491
     sigma: 337.761
     variance: 114083
